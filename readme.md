@@ -4,9 +4,9 @@ The case is reproduced on 19.6.2.11 version. (19.5.3.8 works fine)
 
 ## Reproducing
 Clone repository
-```
 
 Run 19.6.2.11
+
 ```bash
 cd ch-case
 unzip case.zip
